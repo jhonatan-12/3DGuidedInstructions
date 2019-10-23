@@ -1,2 +1,2 @@
-# 3DGuidedInstructions
+# DevChallenge
 Android Dev Challange repository
