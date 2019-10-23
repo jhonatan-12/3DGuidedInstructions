@@ -1,2 +1,2 @@
 # DevChallenge
-Android Dev Challange repository
+Android Dev Challenge repository
